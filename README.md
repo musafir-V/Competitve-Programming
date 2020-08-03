@@ -1,2 +1,2 @@
 # Competitve-Programming
-This reposotory contains the templates for the most important algortihms used frequently in competitive programing.
+This repository contains the templates for the most important algortihms and data-structures used frequently in competitive programing.
